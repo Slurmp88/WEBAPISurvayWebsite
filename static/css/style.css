@@ -1,0 +1,12 @@
+.Paragraph{
+    width:50%;
+}
+
+.LogOn{
+    margin-left: 40%;
+    margin-top: 10%;
+    width:10%;
+    height: 200px;
+    background-color: darkgray;
+    text-align: center;
+}
